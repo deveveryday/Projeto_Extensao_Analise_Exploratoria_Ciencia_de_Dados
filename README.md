@@ -1,3 +1,6 @@
-# O CRESCIMENTO DO BUSINESS INTELLIGENCE NO MERCADO DE TRABALHO: UMA ANÁLISE EXPLORATÓRIA
+# Jobs and Salaries in Data Science 💻
 
-## Projeto de Extensão Universitária desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
+O CRESCIMENTO DO BUSINESS INTELLIGENCE NO MERCADO DE TRABALHO: UMA ANÁLISE EXPLORATÓRIA
+
+
+######  Projeto de Extensão Universitária desenvolvido no Centro Universitário UniSenai, no curso de Inteligência e Análise de Dados.
